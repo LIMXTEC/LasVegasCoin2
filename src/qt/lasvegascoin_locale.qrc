@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/lasvegascoin_bg.qm</file>
+        <file alias="de">locale/lasvegascoin_de.qm</file>
+        <file alias="en">locale/lasvegascoin_en.qm</file>
+        <file alias="es">locale/lasvegascoin_es.qm</file>
+        <file alias="fi">locale/lasvegascoin_fi.qm</file>
+        <file alias="fr">locale/lasvegascoin_fr.qm</file>
+        <file alias="it">locale/lasvegascoin_it.qm</file>
+        <file alias="ja">locale/lasvegascoin_ja.qm</file>
+        <file alias="pl">locale/lasvegascoin_pl.qm</file>
+        <file alias="pt">locale/lasvegascoin_pt.qm</file>
+        <file alias="ru">locale/lasvegascoin_ru.qm</file>
+        <file alias="sk">locale/lasvegascoin_sk.qm</file>
+        <file alias="sv">locale/lasvegascoin_sv.qm</file>
+        <file alias="vi">locale/lasvegascoin_vi.qm</file>
+        <file alias="zh_CN">locale/lasvegascoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/lasvegascoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

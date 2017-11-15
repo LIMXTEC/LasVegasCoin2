@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Diamond
+Comment=Diamond P2P Cryptocurrency
+Comment[fr]=Diamond, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Diamond, eşten eşe kriptografik sanal para birimi
+Exec=lasvegascoin-qt %u
+Terminal=false
+Type=Application
+Icon=lasvegascoin128
+MimeType=x-scheme-handler/lasvegascoin;
+Categories=Office;Finance;

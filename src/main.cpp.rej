@@ -1,0 +1,19 @@
+--- src/main.cpp
++++ src/main.cpp
+@@ -3939,6 +3944,7 @@ bool CheckBlock(const CBlock& block, CValidationState& state, bool fCheckPOW, bo
+ 
+     // Check transactions
+     bool fZerocoinActive = block.nTime > GetSporkValue(SPORK_17_ENABLE_ZEROCOIN);
++    LogPrintf("%s : checktransactions block %s\n", __func__, block.GetHash().GetHex());
+     BOOST_FOREACH (const CTransaction& tx, block.vtx)
+         if (!CheckTransaction(tx, fZerocoinActive, state))
+             return error("CheckBlock() : CheckTransaction failed");
+@@ -4282,7 +4307,7 @@ bool ProcessNewBlock(CValidationState& state, CNode* pfrom, CBlock* pblock, CDis
+ 
+         // Store to disk
+         CBlockIndex* pindex = NULL;
+-        bool ret = AcceptBlock (*pblock, state, &pindex, dbp);
++        bool ret = AcceptBlock (*pblock, state, &pindex, dbp, checked);
+         if (pindex && pfrom) {
+             mapBlockSource[pindex->GetBlockHash ()] = pfrom->GetId ();
+         }
