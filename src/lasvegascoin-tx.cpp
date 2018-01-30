@@ -46,7 +46,7 @@ static bool AppInitRawTx(int argc, char* argv[])
 
     if (argc < 2 || mapArgs.count("-?") || mapArgs.count("-help")) {
         // First part of help message is specific to this utility
-        std::string strUsage = _("Diamond Core lasvegascoin-tx utility version") + " " + FormatFullVersion() + "\n\n" +
+        std::string strUsage = _("Lasvegascoin Core lasvegascoin-tx utility version") + " " + FormatFullVersion() + "\n\n" +
                                _("Usage:") + "\n" +
                                "  lasvegascoin-tx [options] <hex-tx> [commands]  " + _("Update hex-encoded lasvegascoin transaction") + "\n" +
                                "  lasvegascoin-tx [options] -create [commands]   " + _("Create hex-encoded lasvegascoin transaction") + "\n" +

@@ -62,12 +62,12 @@
         <translation>Indirizzi di ricezione</translation>
     </message>
     <message>
-        <source>These are your Diamond addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Questi sono i tuoi indirizzi Diamond per inviare i pagamenti. Controlla sempre l'ammontare e l'indirizzo destinatario prima di inviare i lasvegascoin.</translation>
+        <source>These are your Lasvegascoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Questi sono i tuoi indirizzi Lasvegascoin per inviare i pagamenti. Controlla sempre l'ammontare e l'indirizzo destinatario prima di inviare i lasvegascoin.</translation>
     </message>
     <message>
-        <source>These are your Diamond addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Questi sono i tuoi indirizzi di Diamond per ricevere i pagamenti. Si raccomanda di usare un nuovo indirizzo di ricezione per ogni operazione.</translation>
+        <source>These are your Lasvegascoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Questi sono i tuoi indirizzi di Lasvegascoin per ricevere i pagamenti. Si raccomanda di usare un nuovo indirizzo di ricezione per ogni operazione.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -188,8 +188,8 @@
         <translation>Portafoglio cifrato</translation>
     </message>
     <message>
-        <source>Diamond will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your lasvegascoins from being stolen by malware infecting your computer.</source>
-        <translation>Diamond adesso si chiuderá per finire il processo di crittografia. Ricorda che crittografare il tuo portafoglio non ti da una protezione totale se il tuo computer é infettato da malware</translation>
+        <source>Lasvegascoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your lasvegascoins from being stolen by malware infecting your computer.</source>
+        <translation>Lasvegascoin adesso si chiuderá per finire il processo di crittografia. Ricorda che crittografare il tuo portafoglio non ti da una protezione totale se il tuo computer é infettato da malware</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -231,8 +231,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Diamond Core</source>
-        <translation>Diamond Core</translation>
+        <source>Lasvegascoin Core</source>
+        <translation>Lasvegascoin Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -255,8 +255,8 @@
         <translation>&amp;Invia</translation>
     </message>
     <message>
-        <source>Send coins to a Diamond address</source>
-        <translation>Spedire lasvegascoin ad un indirizzo Diamond</translation>
+        <source>Send coins to a Lasvegascoin address</source>
+        <translation>Spedire lasvegascoin ad un indirizzo Lasvegascoin</translation>
     </message>
     <message>
         <source>&amp;Receive</source>
@@ -283,12 +283,12 @@
         <translation>Chiudi applicazione</translation>
     </message>
     <message>
-        <source>&amp;About Diamond Core</source>
-        <translation>&amp;Su Diamond Core</translation>
+        <source>&amp;About Lasvegascoin Core</source>
+        <translation>&amp;Su Lasvegascoin Core</translation>
     </message>
     <message>
-        <source>Show information about Diamond Core</source>
-        <translation>Mostra la informazione su Diamond Core</translation>
+        <source>Show information about Lasvegascoin Core</source>
+        <translation>Mostra la informazione su Lasvegascoin Core</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -303,8 +303,8 @@
         <translation>&amp;Opzioni...</translation>
     </message>
     <message>
-        <source>Modify configuration options for Diamond</source>
-        <translation>Modifica le opzioni di configurazione di Diamond</translation>
+        <source>Modify configuration options for Lasvegascoin</source>
+        <translation>Modifica le opzioni di configurazione di Lasvegascoin</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -355,16 +355,16 @@
         <translation>Firma il &amp;messaggio...</translation>
     </message>
     <message>
-        <source>Sign messages with your Diamond addresses to prove you own them</source>
-        <translation>Firma i messaggi con il tuo indirizzo Diamond per dimostrarne che li possiedi</translation>
+        <source>Sign messages with your Lasvegascoin addresses to prove you own them</source>
+        <translation>Firma i messaggi con il tuo indirizzo Lasvegascoin per dimostrarne che li possiedi</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
         <translation>&amp;Verifica messaggio...</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Diamond addresses</source>
-        <translation>Verificare i messaggi per assicurarsi che sono firmati con gli indirizzi specificati di Diamond</translation>
+        <source>Verify messages to ensure they were signed with specified Lasvegascoin addresses</source>
+        <translation>Verificare i messaggi per assicurarsi che sono firmati con gli indirizzi specificati di Lasvegascoin</translation>
     </message>
     <message>
         <source>&amp;Information</source>
@@ -443,16 +443,16 @@
         <translation>Opzioni riga di &amp;comando</translation>
     </message>
     <message>
-        <source>Diamond Core client</source>
-        <translation>Cliente Diamond Core</translation>
+        <source>Lasvegascoin Core client</source>
+        <translation>Cliente Lasvegascoin Core</translation>
     </message>
     <message numerus="yes">
         <source>Processed %n blocks of transaction history.</source>
         <translation><numerusform>Processato %n blocco della cronologia transazioni.</numerusform><numerusform>Processati %n blocchi della cronologia transazioni.</numerusform></translation>
     </message>
     <message>
-        <source>Show the Diamond Core help message to get a list with possible Diamond command-line options</source>
-        <translation>Mostra il messaggio di aiuto di Diamond Core per ottenere una lista con le possibili opzioni di linea di comando di Diamond</translation>
+        <source>Show the Lasvegascoin Core help message to get a list with possible Lasvegascoin command-line options</source>
+        <translation>Mostra il messaggio di aiuto di Lasvegascoin Core per ottenere una lista con le possibili opzioni di linea di comando di Lasvegascoin</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -475,8 +475,8 @@
         <translation>Barra degli strumenti "Tabs"</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Diamond network</source>
-        <translation><numerusform>%n connessione attiva alla rete Diamond</numerusform><numerusform>%n connessioni attive alla rete Diamond</numerusform></translation>
+        <source>%n active connection(s) to Lasvegascoin network</source>
+        <translation><numerusform>%n connessione attiva alla rete Lasvegascoin</numerusform><numerusform>%n connessioni attive alla rete Lasvegascoin</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -865,16 +865,16 @@ Indirizzo: %4
         <translation>Configurazione Obfuscate</translation>
     </message>
     <message>
-        <source>Obfuscate was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Diamond's configuration screen.</source>
+        <source>Obfuscate was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Lasvegascoin's configuration screen.</source>
         <translation>Dark send è statto correttamente impostato su base (%1 e 2 round). Puoi cambiare questa impostazione in qualsiasi momento tu lo voglia dalla finestra di configurazione.</translation>
     </message>
     <message>
-        <source>Obfuscate was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Diamond's configuration screen.</source>
-        <translation>Obfuscate è stata impostata correttamente a elevato (%1 e 8 turni). È possibile modificare in qualsiasi momento aprendo schermata di configurazione di Diamond.</translation>
+        <source>Obfuscate was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Lasvegascoin's configuration screen.</source>
+        <translation>Obfuscate è stata impostata correttamente a elevato (%1 e 8 turni). È possibile modificare in qualsiasi momento aprendo schermata di configurazione di Lasvegascoin.</translation>
     </message>
     <message>
-        <source>Obfuscate was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Diamond's configuration screen.</source>
-        <translation>Obfuscate è stato correttamente settato al massimo (%1 e 16 rounds). Puoi cambiarlo quando vuoi aprendo la finestra di configurazione di Diamond</translation>
+        <source>Obfuscate was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Lasvegascoin's configuration screen.</source>
+        <translation>Obfuscate è stato correttamente settato al massimo (%1 e 16 rounds). Puoi cambiarlo quando vuoi aprendo la finestra di configurazione di Lasvegascoin</translation>
     </message>
 </context>
 <context>
@@ -916,8 +916,8 @@ Indirizzo: %4
         <translation>Modifica indirizzo d'invio</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Diamond address.</source>
-        <translation>L'indirizzo inserito "%1" non é un indirizzo Diamond valido</translation>
+        <source>The entered address "%1" is not a valid Lasvegascoin address.</source>
+        <translation>L'indirizzo inserito "%1" non é un indirizzo Lasvegascoin valido</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -958,16 +958,16 @@ Indirizzo: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Diamond Core</source>
-        <translation>Diamond Core</translation>
+        <source>Lasvegascoin Core</source>
+        <translation>Lasvegascoin Core</translation>
     </message>
     <message>
         <source>version</source>
         <translation>versione</translation>
     </message>
     <message>
-        <source>About Diamond Core</source>
-        <translation>Su Diamond Core</translation>
+        <source>About Lasvegascoin Core</source>
+        <translation>Su Lasvegascoin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1013,16 +1013,16 @@ Indirizzo: %4
         <translation>Benvenuto</translation>
     </message>
     <message>
-        <source>Welcome to Diamond Core.</source>
-        <translation>Benvenuto in Diamond Core</translation>
+        <source>Welcome to Lasvegascoin Core.</source>
+        <translation>Benvenuto in Lasvegascoin Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Diamond Core will store its data.</source>
-        <translation>Essendo la prima volta nella quale il programma viene lanciato, puoi scegliere dove Diamond Core memorizzerà i propri dati.</translation>
+        <source>As this is the first time the program is launched, you can choose where Lasvegascoin Core will store its data.</source>
+        <translation>Essendo la prima volta nella quale il programma viene lanciato, puoi scegliere dove Lasvegascoin Core memorizzerà i propri dati.</translation>
     </message>
     <message>
-        <source>Diamond Core will download and store a copy of the Diamond block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Diamond Core scaricherà e salverà una copia della blocco catena. Almeno %1GB di dati sarà immagazzinato in questa cartella e aumenterà col tempo. Anche il portafoglio sarà conservato in questa cartella.</translation>
+        <source>Lasvegascoin Core will download and store a copy of the Lasvegascoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Lasvegascoin Core scaricherà e salverà una copia della blocco catena. Almeno %1GB di dati sarà immagazzinato in questa cartella e aumenterà col tempo. Anche il portafoglio sarà conservato in questa cartella.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1033,8 +1033,8 @@ Indirizzo: %4
         <translation>Usa una cartella dati personalizzata:</translation>
     </message>
     <message>
-        <source>Diamond Core</source>
-        <translation>Diamond Core</translation>
+        <source>Lasvegascoin Core</source>
+        <translation>Lasvegascoin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1087,12 +1087,12 @@ Indirizzo: %4
         <translation>&amp;Principale</translation>
     </message>
     <message>
-        <source>Automatically start Diamond after logging in to the system.</source>
-        <translation>Esegui automaticamente Diamond Core all'avvio del sistema.</translation>
+        <source>Automatically start Lasvegascoin after logging in to the system.</source>
+        <translation>Esegui automaticamente Lasvegascoin Core all'avvio del sistema.</translation>
     </message>
     <message>
-        <source>&amp;Start Diamond on system login</source>
-        <translation>&amp;Esegui Diamond al login di sistema</translation>
+        <source>&amp;Start Lasvegascoin on system login</source>
+        <translation>&amp;Esegui Lasvegascoin al login di sistema</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1119,8 +1119,8 @@ Indirizzo: %4
         <translation>Tale importo si comporta come una soglia per spegnere Obfuscate una volta che è raggiunto.</translation>
     </message>
     <message>
-        <source>Amount of Diamond to keep anonymized</source>
-        <translation>Quantitá di Diamond da mantenere anonima.</translation>
+        <source>Amount of Lasvegascoin to keep anonymized</source>
+        <translation>Quantitá di Lasvegascoin da mantenere anonima.</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
@@ -1135,8 +1135,8 @@ Indirizzo: %4
         <translation>Permetti connessioni in entrata</translation>
     </message>
     <message>
-        <source>Connect to the Diamond network through a SOCKS5 proxy.</source>
-        <translation>Connetta a la rete Diamond attraverso un SOCKS5 proxy</translation>
+        <source>Connect to the Lasvegascoin network through a SOCKS5 proxy.</source>
+        <translation>Connetta a la rete Lasvegascoin attraverso un SOCKS5 proxy</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1163,8 +1163,8 @@ Indirizzo: %4
         <translation>Rete</translation>
     </message>
     <message>
-        <source>Automatically open the Diamond client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Apri automaticamente la porta utilizzata dal client Diamond nel router. Funziona solo se il router supporta UPnP ed è attivato.</translation>
+        <source>Automatically open the Lasvegascoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Apri automaticamente la porta utilizzata dal client Lasvegascoin nel router. Funziona solo se il router supporta UPnP ed è attivato.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1215,7 +1215,7 @@ Indirizzo: %4
         <translation>&amp;Lingua Interfaccia Utente:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Diamond.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Lasvegascoin.</source>
         <translation>La lingua dell'interfaccia utente può essere impostata qui. Questo settaggio sarà attivo al riavvio del client.</translation>
     </message>
     <message>
@@ -1301,8 +1301,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Modulo</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Diamond network after a connection is established, but this process has not completed yet.</source>
-        <translation>Le informazioni visualizzate potrebbero essere datate. Il portafoglio si sincronizza automaticamente con il Diamond rete dopo che una connessione viene stabilizzata, ma questo processo non è stato ancora completato.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Lasvegascoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Le informazioni visualizzate potrebbero essere datate. Il portafoglio si sincronizza automaticamente con il Lasvegascoin rete dopo che una connessione viene stabilizzata, ma questo processo non è stato ancora completato.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1514,8 +1514,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Invalido indirizzo di pago %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Diamond address or malformed URI parameters.</source>
-        <translation>Impossibile interpretare l'URI! La causa puó essere un indirizzo Diamond non valido o parametri URI non corretti.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Lasvegascoin address or malformed URI parameters.</source>
+        <translation>Impossibile interpretare l'URI! La causa puó essere un indirizzo Lasvegascoin non valido o parametri URI non corretti.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -1596,8 +1596,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Importo</translation>
     </message>
     <message>
-        <source>Enter a Diamond address (e.g. %1)</source>
-        <translation>Inserire un indirizzo Diamond (e.g. %1)</translation>
+        <source>Enter a Lasvegascoin address (e.g. %1)</source>
+        <translation>Inserire un indirizzo Lasvegascoin (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1682,7 +1682,7 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Numero di connessioni</translation>
     </message>
     <message>
-        <source>Open the Diamond debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Lasvegascoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Apri il file log di debug dall'attuale cartella dei dati. Può richiedere un paio di secondi per file di grossa dimensione.</translation>
     </message>
     <message>
@@ -1866,8 +1866,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Uscita:</translation>
     </message>
     <message>
-        <source>Welcome to the Diamond RPC console.</source>
-        <translation>Benvenuto nella console RPC Diamond</translation>
+        <source>Welcome to the Lasvegascoin RPC console.</source>
+        <translation>Benvenuto nella console RPC Lasvegascoin</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1921,8 +1921,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>R&amp;iusa un indirizzo di ricezione (non raccomandato)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Diamond network.</source>
-        <translation>Messaggio opzionale da allegare alla richiesta di pagamento, che verrà visualizzato quando la richiesta verrà aperta. Nota: il messaggio non sarà inviato insieme al pagamento nel network Diamond.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Lasvegascoin network.</source>
+        <translation>Messaggio opzionale da allegare alla richiesta di pagamento, che verrà visualizzato quando la richiesta verrà aperta. Nota: il messaggio non sarà inviato insieme al pagamento nel network Lasvegascoin.</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
@@ -2338,8 +2338,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Pagare solo la minima commissione di %1</translation>
     </message>
     <message>
-        <source>Warning: Invalid Diamond address</source>
-        <translation>ATTENZIONE: Indirizzo Diamond non valido</translation>
+        <source>Warning: Invalid Lasvegascoin address</source>
+        <translation>ATTENZIONE: Indirizzo Lasvegascoin non valido</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2361,8 +2361,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Paga &amp;a:</translation>
     </message>
     <message>
-        <source>The Diamond address to send the payment to</source>
-        <translation>L'indirizzo Diamond per inviare il pagamento a </translation>
+        <source>The Lasvegascoin address to send the payment to</source>
+        <translation>L'indirizzo Lasvegascoin per inviare il pagamento a </translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2401,8 +2401,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Messaggio:</translation>
     </message>
     <message>
-        <source>A message that was attached to the lasvegascoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Diamond network.</source>
-        <translation>Un messaggio allegato con l'URI lasvegascoin che verrà memorizzato nella transazione per il tuo referente. Nota: questo messaggio non verrà inviato attraverso il network Diamond.</translation>
+        <source>A message that was attached to the lasvegascoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Lasvegascoin network.</source>
+        <translation>Un messaggio allegato con l'URI lasvegascoin che verrà memorizzato nella transazione per il tuo referente. Nota: questo messaggio non verrà inviato attraverso il network Lasvegascoin.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -2428,8 +2428,8 @@ Più URL vengono separati da una barra verticale |.</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Diamond Core is shutting down...</source>
-        <translation>Diamond Core si sta chiudendo...</translation>
+        <source>Lasvegascoin Core is shutting down...</source>
+        <translation>Lasvegascoin Core si sta chiudendo...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2451,8 +2451,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Puoi firmare messaggi con i tuoi indirizzi in modo da dimostrarne il possesso. Presta attenzione a non firmare dichiarazioni vaghe, attacchi di phishing potrebbero cercare di spingerti ad apporre la tua firma su di esse. Firma solo dichiarazioni completamente dettagliate e delle quali condividi in pieno il contenuto.</translation>
     </message>
     <message>
-        <source>The Diamond address to sign the message with</source>
-        <translation>L'indirizzo Diamond con cui firmare il messaggio</translation>
+        <source>The Lasvegascoin address to sign the message with</source>
+        <translation>L'indirizzo Lasvegascoin con cui firmare il messaggio</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2483,8 +2483,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Copia la firma corrente nella clipboard</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Diamond address</source>
-        <translation>Firma il mssaggio per dimostrare il possesso di questo indirizzo Diamond</translation>
+        <source>Sign the message to prove you own this Lasvegascoin address</source>
+        <translation>Firma il mssaggio per dimostrare il possesso di questo indirizzo Lasvegascoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2507,12 +2507,12 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Inserisci l'indirizzo del firmatario, il messaggio (assicurati di copiare esattamente anche i ritorni a capo, gli spazi, le tabulazioni, etc..) e la firma qui sotto, per verificare il messaggio. Presta attenzione a non vedere nella firma più di quanto non sia riportato nel messaggio stesso, per evitare di cadere vittima di attacchi di tipo man-in-the-middle.</translation>
     </message>
     <message>
-        <source>The Diamond address the message was signed with</source>
-        <translation>L'indirizzo Diamond con cui era firmato il messaggio</translation>
+        <source>The Lasvegascoin address the message was signed with</source>
+        <translation>L'indirizzo Lasvegascoin con cui era firmato il messaggio</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Diamond address</source>
-        <translation>Verifica il messaggio per assicurarti sia stato firmato con l'indirizzo Diamond specificato</translation>
+        <source>Verify the message to ensure it was signed with the specified Lasvegascoin address</source>
+        <translation>Verifica il messaggio per assicurarti sia stato firmato con l'indirizzo Lasvegascoin specificato</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2578,8 +2578,8 @@ Più URL vengono separati da una barra verticale |.</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Diamond Core</source>
-        <translation>Diamond Core</translation>
+        <source>Lasvegascoin Core</source>
+        <translation>Lasvegascoin Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2590,8 +2590,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Gli sviluppatori di Bitcoin Core</translation>
     </message>
     <message>
-        <source>The Diamond Core developers</source>
-        <translation>Gli sviluppatori di Diamond Core</translation>
+        <source>The Lasvegascoin Core developers</source>
+        <translation>Gli sviluppatori di Lasvegascoin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3164,8 +3164,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Associa all'indirizzo indicato e resta permanentemente in ascolto su questo. Usa la notazione [host]:porta per l'IPv6</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Diamond Core is probably already running.</source>
-        <translation>Impossibile ottenere un blocco sulla data directory %s. Diamond Core è probabilmente già in esecuzione.</translation>
+        <source>Cannot obtain a lock on data directory %s. Lasvegascoin Core is probably already running.</source>
+        <translation>Impossibile ottenere un blocco sulla data directory %s. Lasvegascoin Core è probabilmente già in esecuzione.</translation>
     </message>
     <message>
         <source>Obfuscate uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>
@@ -3220,8 +3220,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Questa versione è una compilazione pre-rilascio - usala a tuo rischio - non utilizzarla per la generazione o per applicazioni di commercio</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Diamond Core is probably already running.</source>
-        <translation>Incapace di legare al %s su questo computer. Diamond Core è probabilmente già funzionato.</translation>
+        <source>Unable to bind to %s on this computer. Lasvegascoin Core is probably already running.</source>
+        <translation>Incapace di legare al %s su questo computer. Lasvegascoin Core è probabilmente già funzionato.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscate denominated funds for this transaction.</source>
@@ -3468,8 +3468,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Errore di connessione al Masternode</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Diamond Core</source>
-        <translation>Errore caricando il wallet.dat: il Pertafoglio ha bisogno di una versione di Diamond Core piú recente.</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Lasvegascoin Core</source>
+        <translation>Errore caricando il wallet.dat: il Pertafoglio ha bisogno di una versione di Lasvegascoin Core piú recente.</translation>
     </message>
     <message>
         <source>Error: A fatal internal error occured, see debug.log for details</source>
@@ -3508,8 +3508,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Informazioni</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Diamond Core is shutting down.</source>
-        <translation>Controllo di inizializzazione sanity fallito. Diamond Core verrà chiuso.</translation>
+        <source>Initialization sanity check failed. Lasvegascoin Core is shutting down.</source>
+        <translation>Controllo di inizializzazione sanity fallito. Lasvegascoin Core verrà chiuso.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>

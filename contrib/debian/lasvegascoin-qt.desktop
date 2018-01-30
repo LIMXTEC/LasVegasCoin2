@@ -1,9 +1,9 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Diamond
-Comment=Diamond P2P Cryptocurrency
-Comment[fr]=Diamond, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=Diamond, eşten eşe kriptografik sanal para birimi
+Name=Lasvegascoin
+Comment=Lasvegascoin P2P Cryptocurrency
+Comment[fr]=Lasvegascoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Lasvegascoin, eşten eşe kriptografik sanal para birimi
 Exec=lasvegascoin-qt %u
 Terminal=false
 Type=Application

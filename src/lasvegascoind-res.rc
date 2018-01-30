@@ -17,7 +17,7 @@ BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
             VALUE "CompanyName",        "VGS"
-            VALUE "FileDescription",    "lasvegascoind (OSS daemon/client for Diamond)"
+            VALUE "FileDescription",    "lasvegascoind (OSS daemon/client for Lasvegascoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "lasvegascoind"
             VALUE "LegalCopyright",     COPYRIGHT_STR
