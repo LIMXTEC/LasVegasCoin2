@@ -8,4 +8,4 @@
 +define(_CLIENT_VERSION_BUILD, 13)
  define(_CLIENT_VERSION_IS_RELEASE, true)
  define(_COPYRIGHT_YEAR, 2017)
- AC_INIT([Lasvegascoin Core],[_CLIENT_VERSION_MAJOR._CLIENT_VERSION_MINOR._CLIENT_VERSION_REVISION],[http://bit.diamonds],[diamond])
+ AC_INIT([Lasvegascoin Core],[_CLIENT_VERSION_MAJOR._CLIENT_VERSION_MINOR._CLIENT_VERSION_REVISION],[http://bit.lasvegascoins],[lasvegascoin])
