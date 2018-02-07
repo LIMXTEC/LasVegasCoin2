@@ -29,7 +29,7 @@
   <string>????</string>
 
   <key>CFBundleExecutable</key>
-  <string>VGS-Qt</string>
+  <string>Lasvegascoin-Qt</string>
 
   <key>CFBundleIdentifier</key>
   <string>io.lasvegascoin.Lasvegascoin-Qt</string>
