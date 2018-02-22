@@ -51,7 +51,7 @@ static const int MAX_URI_LENGTH = 255;
 
 #define QAPP_ORG_NAME "VGS"
 #define QAPP_ORG_DOMAIN "http://bit.lasvegascoins/"
-#define QAPP_APP_NAME_DEFAULT "VGS-Qt"
-#define QAPP_APP_NAME_TESTNET "VGS-Qt-testnet"
+#define QAPP_APP_NAME_DEFAULT "Lasvegascoin-Qt"
+#define QAPP_APP_NAME_TESTNET "Lasvegascoin-Qt-testnet"
 
 #endif // BITCOIN_QT_GUICONSTANTS_H

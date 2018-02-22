@@ -3,7 +3,7 @@
 @@ -119,6 +119,7 @@ class CMainParams : public CChainParams
          nMasternodeCountDrift = 20;
          nMasternodeColleteralLimxDev = 10000; //Params().MasternodeColleteralLimxDev()
-         nModifierUpdateBlock = 1; // we use the version 2 for dmd
+         nModifierUpdateBlock = 1; // we use the version 2 for VGS
 +		nMaxMoneyOut = 21000000 * COIN;
  
          /*

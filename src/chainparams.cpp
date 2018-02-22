@@ -117,7 +117,7 @@ public:
         nMaturity = 250;
         nMasternodeCountDrift = 20;
 		nMasternodeColleteralLimxDev = 1000; //Params().MasternodeColleteralLimxDev()
-        nModifierUpdateBlock = 1; // we use the version 2 for dmd
+        nModifierUpdateBlock = 1; // we use the version 2 for VGS
         nMaxMoneyOut = 21000000 * COIN;
 /*
 		printf("Searching for genesis block...\n");

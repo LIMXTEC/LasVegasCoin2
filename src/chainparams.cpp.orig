@@ -117,7 +117,7 @@ public:
         nMaturity = 144;
         nMasternodeCountDrift = 20;
 		nMasternodeColleteralLimxDev = 10000; //Params().MasternodeColleteralLimxDev()
-        nModifierUpdateBlock = 1; // we use the version 2 for dmd
+        nModifierUpdateBlock = 1; // we use the version 2 for VGS
 /*
 		printf("Searching for genesis block...\n");
         assert(hashGenesisBlock == uint256("0x00008412c3a4bbf7133c9cfbb8f9041fdd39bc98d1e1527612d10d95ed9b06d1"));
