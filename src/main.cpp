@@ -1620,27 +1620,46 @@ double ConvertBitsToDouble(unsigned int nBits)
     return dDiff;
 }
 
+static const int RewardFork = 39000;
+
 int64_t GetBlockValue(int nHeight)
 {
  
-    if (Params().NetworkID() == CBaseChainParams::TESTNET) {
+    if (Params().NetworkID() == CBaseChainParams::TESTNET)
+    {
         if (nHeight < 200 && nHeight > 0)
+        {
             return 250000 * COIN;
+        }
     }
 	
 	int64_t nSubsidy = 1 * COIN;
-	if( nHeight == 1 ) return 313000 * COIN;
+    if( nHeight == 1 )
+    {
+        return 313000 * COIN;
+    }
+    else if (nHeight >= RewardFork)
+    {
+        nSubsidy = 2.5 * COIN;
+    }
 	return nSubsidy;
-
-	}
+}
 
 int64_t GetMasternodePayment(int nHeight, int64_t blockValue, int nMasternodeCount)
 {
     int64_t ret = 0;
 
-    if (Params().NetworkID() == CBaseChainParams::TESTNET) {
+    if (Params().NetworkID() == CBaseChainParams::TESTNET)
+    {
         if (nHeight < 200)
+        {
             return 0;
+        }
+    }
+    if(nHeight >= RewardFork)
+    {
+        ret = ((blockValue / 5) * 4); // 4/5 of 2.5 is 2
+        return ret;
     }
 	ret = blockValue  / 2;
 	
