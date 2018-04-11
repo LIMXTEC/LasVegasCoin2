@@ -192,8 +192,9 @@ genesis hash: 000002d56463941c20eae5cb474cc805b646515d18bc7dc222a0885b206eadb0
         hashGenesisBlock = genesis.GetHash();
         assert(hashGenesisBlock == uint256("0x00000a036a61234bbdaff55e2be41cd1302061ac5f3dbf971dc2055b506f5dbc"));
         assert(genesis.hashMerkleRoot == uint256("0x675c5ac5514ddaf78007a9396a2b31549261f49e691f1eed009da05859a60394"));
-		vSeeds.push_back(CDNSSeedData("188.68.52.172", "188.68.52.172"));
-		vSeeds.push_back(CDNSSeedData("37.120.186.85", "37.120.186.85"));
+        vSeeds.push_back(CDNSSeedData("midnightnet.net", "vgs.midnightminer.net"));
+        vSeeds.push_back(CDNSSeedData("188.68.52.172", "188.68.52.172"));
+	vSeeds.push_back(CDNSSeedData("37.120.186.85", "37.120.186.85"));
         vSeeds.push_back(CDNSSeedData("37.120.190.76", "37.120.190.76"));
 
 
